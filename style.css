@@ -1,0 +1,43 @@
+table {
+    border: 1px solid black;
+    width: 50%;
+}
+tr {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.maleunder21 {
+    background-color: gray;
+}
+.maleover21 {
+    background-color: black;
+    color: white;
+}
+.femaleunder21 {
+    background-color: red;
+}
+.femaleover21 {
+    background-color:pink ;
+    color: black;
+}
+ ul {
+    list-style-image :url(../dot-clipart-bullet-point-9.png) ;
+    list-style-position:inside ;
+ }
+
+ .list {
+    list-style: none;
+    padding: 10px 30px;
+    background-image: url(../dot-clipart-bullet-point-9.png);
+    background-repeat: no-repeat;
+    background-position: left center ;
+    background-size: 20px;
+ }
